@@ -96,11 +96,11 @@
 }
 .form input.name-black {
   font-size: 20px;
-  background: #fff url("name_b.png") no-repeat scroll 30px 50%;
+  background: #fff url("../images/name_b.png") no-repeat scroll 30px 50%;
 }
 .form input.phone-black {
   font-size: 20px;
-  background: #fff url("phone_b.png") no-repeat scroll 28px 50%;
+  background: #fff url("../images/phone_b.png") no-repeat scroll 28px 50%;
 }
 .form .event_order {
   background: #71b100 none repeat scroll 0 0;
@@ -204,11 +204,11 @@ select {
 }
 input.name-black {
   font-size: 20px;
-  background: #fff url("name_b.png") no-repeat 30px 50%;
+  background: #fff url("../images/name_b.png") no-repeat 30px 50%;
 }
 input.phone-black {
   font-size: 20px;
-  background: #fff url("phone_b.png") no-repeat 28px 50%;
+  background: #fff url("../images/phone_b.png") no-repeat 28px 50%;
 }
 .event_order {
   font-size: 26px;
@@ -699,7 +699,7 @@ table {
   margin: 21px 0 0;
 }
 .serch > a > input {
-  background: #fff url("search.png") no-repeat scroll 91% 50%;
+  background: #fff url("../images/search.png") no-repeat scroll 91% 50%;
 }
 @media screen and (max-width: 999px) {
   .sidebar {

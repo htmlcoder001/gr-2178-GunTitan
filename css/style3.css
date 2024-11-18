@@ -357,7 +357,7 @@ input[type="text"], input[type="tel"] {
     }
 
     .door__wrapper .door {
-        background-image: url(./images/door.jpg) !important;
+        background-image: url(../images/door.jpg) !important;
         background-repeat: no-repeat !important;
         background-size: 100% !important;
         transform: rotateY(0deg) !important;
@@ -368,11 +368,11 @@ input[type="text"], input[type="tel"] {
     }
 
     #door__2 {
-        background-image: url(./images/door2.jpg) !important;
+        background-image: url(../images/door2.jpg) !important;
     }
 
     #door__3 {
-        background-image: url(./images/door3.jpg) !important;
+        background-image: url(../images/door3.jpg) !important;
     }
 
     .door__wrapper .door:hover {
